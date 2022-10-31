@@ -1,3 +1,6 @@
+- 
+- ![Bem Vindo ao Meu GitHub](https://user-images.githubusercontent.com/112363816/198926236-9e6a19f5-02ef-4e95-a8e4-24378cf5431a.png)
+ 
 - 🔭 Olá, sou o Eduardo Yukio, trabalho atualmente na gestão de projeto de sistemas fotovoltaicos,
 - 🌱 Atualmente sou estudante de Segurança da Informação, atualmente no 6° Semestre, com previsão de término para 06/2023 por causa da matéria de estágio.
 - 👯 Estudo atualmente Pyhton, C# e CyberSecurity
