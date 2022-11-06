@@ -7,3 +7,6 @@
 - 📫 Em caso de se interessar pelos scripts, quiser me dar uma dica, ou querer entrar em contato comigo para conversar, pode nos contatos:
 - 😄 Telefone: (19) 98216-9314
 - ⚡ E-mail: eduardoyukioaoki2015@hotmail.com
+
+
+![Snake animation](https://github.com/YukioAoki/YukioAoki/blob/output/github-contribution-grid-snake.svg)
