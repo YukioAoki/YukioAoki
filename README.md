@@ -25,6 +25,5 @@
 </div>
 <div align="center">
   <h1>Git Hub Stats</h1>
-  <iframe src="https://github-readme-stats.vercel.app/api?username=YukioAoki&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="200" width="200%"></iframe>
   <img src="https://github.com/YukioAoki/YukioAoki/blob/output/github-contribution-grid-snake.svg" height="200" width="200%"/>
 </div>
