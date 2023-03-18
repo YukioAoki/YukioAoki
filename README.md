@@ -9,6 +9,6 @@
     <a href="https://www.linkedin.com/in/eduardo-yukio-aoki-7b2a001a3/"><img align="center" alt="LinkedIn" title="LinkedIn" height="30" width="40" src="https://github.com/peterthehan/peterthehan/blob/main/assets/linkedin.svg"></a>
   </div>
   <h1>Git Hub Stats</h1>
-  <img height="200" width="200%" src="https://github-readme-stats.vercel.app/api?username=YukioAoki&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="300" width="200%" src="https://github-readme-stats.vercel.app/api?username=YukioAoki&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="200" width="200%" src="https://github.com/YukioAoki/YukioAoki/blob/output/github-contribution-grid-snake.svg"/>
 </div>
