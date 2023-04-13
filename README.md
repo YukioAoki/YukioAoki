@@ -1,14 +1,34 @@
-<div align="center">
-  <img height="100%" src="https://user-images.githubusercontent.com/112363816/198926236-9e6a19f5-02ef-4e95-a8e4-24378cf5431a.png"/>
-  <h1>Um pouco sobre mim</h1>
-  <p>Sou o Eduardo Yukio, trabalho como Suporte de Ti N1 e estudo Segurança da Informação no 6º semestre. Além disso, estou interessado em Python, C# e Cybersecurity e tenho como objetivo trabalhar em Red Team, Blue Team, Análise de Infraestrutura ou Teste de Software.</p>
-  <h1>Redes Sociais</h1>
-  <div>
-    <a href="mailto:eduardoyukioaoki2015@hotmail.com"><img align="center" alt="E-mail" title="E-mail" height="40" width="70" src="https://user-images.githubusercontent.com/112363816/200210070-5ab29c21-3f93-48e4-91b9-c03a99e06827.png"></a>
-    <a href="https://twitter.com/YukioEduardo"><img align="center" alt="Twitter" title="Twitter" height="30" width="40" src="https://github.com/peterthehan/peterthehan/blob/main/assets/twitter.svg"></a>
-    <a href="https://www.linkedin.com/in/eduardo-yukio-aoki-7b2a001a3/"><img align="center" alt="LinkedIn" title="LinkedIn" height="30" width="40" src="https://github.com/peterthehan/peterthehan/blob/main/assets/linkedin.svg"></a>
-  </div>
-  <h1>Git Hub Stats</h1>
-  <img height="200" width="150%" src="https://github-readme-stats.vercel.app/api?username=YukioAoki&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="200" width="200%" src="https://github.com/YukioAoki/YukioAoki/blob/output/github-contribution-grid-snake.svg"/>
-</div>
+# 💫 About Me:
+Olá, meu nome é Eduardo Yukio e sou especialista em Suporte de TI N1. 
+Atualmente, estou cursando o 7º semestre de Segurança da Informação. 
+Meu interesse se concentra principalmente em áreas como Python, C# e Cybersecurity. Além disso, tenho como objetivo trabalhar com Red Team, Blue Team e Análise de Infraestrutura.
+
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/eduardo.yukioaoki) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/du_yukio) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-yukio-aoki-7b2a001a3/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/YukioEduardo) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=YukioAoki&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=YukioAoki&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YukioAoki&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=YukioAoki&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=YukioEduardo)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=YukioAoki&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=YukioAoki&icon=0&color=0)](https://visitcount.itsvg.in)
+
