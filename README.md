@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="120" style="border-radius:50%" alt="Avatar"/><br/>
-  <sub>@YukioAoki</sub>
+  <sub>YukioAoki</sub>
 </p>
 
 <h1 align="center">Hi there 👋</h1>
