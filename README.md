@@ -7,14 +7,14 @@
 
 <h1 align="center">Hi there 👋</h1>
 <p align="center">
-  I'm <b>YOUR_NAME</b> — <i>Junior Infrastructure Analyst</i> and Information Security learner.
+  I'm <b>Eduardo Yukio</b> — <i>Junior Infrastructure Analyst</i> and Information Security learner.
   <br/>Blue Team | Wazuh | pfSense | VMware | PNETLab | MITRE ATT&CK | NIST CSF | CIS Controls
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Infrastructure%20Analyst-0A0F24?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-2D333B?style=for-the-badge"/>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Contact-2F81F7?style=for-the-badge"></a>
+  <a href="mailto:eduardoyukioaoki2015@hotmail.com"><img src="https://img.shields.io/badge/Email-Contact-2F81F7?style=for-the-badge"></a>
   <img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge" />
 </p>
 
@@ -28,11 +28,11 @@
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=github-dark-blue&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YukioAoki&theme=github-dark-blue&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onestar&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YukioAoki&theme=onestar&no-frame=true&row=1&column=6" />
 </p>
 
 ### About me
@@ -42,7 +42,7 @@
 - 🎯 Goal: strong Blue Team engineer with automation
 
 ### Social Networks
-[LinkedIn](https://www.linkedin.com/in/your-link/) ·
+[LinkedIn](https://www.linkedin.com/in/eduardo-yukio-aoki/) ·
 [YouTube](https://youtube.com/@your-handle) ·
 [TikTok](https://www.tiktok.com/@your-handle) ·
 [Blog](https://your-blog.example)
