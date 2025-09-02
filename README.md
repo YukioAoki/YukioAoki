@@ -1,34 +1,34 @@
-# 💫 About Me:
-Olá, meu nome é Eduardo Yukio e sou especialista em Suporte de TI N1. 
-Atualmente, estou cursando o 7º semestre de Segurança da Informação. 
-Meu interesse se concentra principalmente em áreas como Python, C# e Cybersecurity. Além disso, tenho como objetivo trabalhar com Red Team, Blue Team e Análise de Infraestrutura.
+<h1 align="center">Eduardo Yukio Aoki</h1>
 
+<p align="center">
+Analista de Infraestrutura na <strong>Texel Tecnologia</strong><br/>
+Graduado em Segurança da Informação pela Fatec Americana (2023)
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/eduardo.yukioaoki) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/du_yukio) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-yukio-aoki-7b2a001a3/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/YukioEduardo) 
+## Sobre mim
+Desde novembro de 2024 forneço assistência técnica a usuários e pontos remotos, sempre em busca da melhor solução para os desafios que surgem. Sou apaixonado por segurança cibernética e ambientes Cloud (Azure) e busco construir uma carreira sólida como Analista de Segurança da Informação especializado em Cloud (Azure).
 
-# 💻 Tech Stack:
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/YukioAoki/Python) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YukioAoki&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=YukioAoki&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YukioAoki&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+Estou comprometido em conquistar certificações renomadas como <strong>AZ-500</strong>, <strong>SC-100</strong>, <strong>Security+</strong> e <strong>CISSP</strong> para aprimorar minhas habilidades em segurança voltada para ambientes Cloud.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YukioAoki&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## Este repositório
+Espaço para centralizar scripts e ferramentas usados no dia a dia de infraestrutura e segurança:
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=YukioEduardo)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+- Automatização para ambientes Linux e Windows
+- Monitoramento, hardening e migração de Tenants 365
+- Estudos e PoCs de Red Team/Blue Team
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Competências
+- Infraestrutura e segurança da informação
+- Segurança cibernética em ambientes Cloud (Azure)
+- Programação em Python e C#
+- Manutenção preventiva e corretiva de equipamentos
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=YukioAoki&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### Tecnologias
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure"/>
+</p>
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=YukioAoki&icon=0&color=0)](https://visitcount.itsvg.in)
-
+## Contato
+[LinkedIn](https://www.linkedin.com/in/eduardo-yukio-aoki-7b2a001a3/) • [Instagram](https://instagram.com/du_yukio) • [Twitter](https://twitter.com/YukioEduardo) • [Facebook](https://www.facebook.com/eduardo.yukioaoki)
