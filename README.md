@@ -22,6 +22,41 @@
   <img src="https://github.com/YukioAoki/YukioAoki/blob/main/banner_github.png" width="600" alt="Yukio - Infrastructure & Cybersecurity Labs banner"/>
 </p>
 
+---
+
+### 🚀 Sobre mim
+Analista de Infraestrutura na **Texel Tecnologia** (desde nov/2024), prestando suporte técnico a usuários e pontos remotos.  
+Tenho experiência em troubleshooting, melhoria contínua de serviços e projetos de **segurança e cloud**.
+
+- 🎓 Formação: **Segurança da Informação** — Fatec Americana (2023)  
+- ☁️ Foco atual: **Cloud (Azure)** & **Segurança Cibernética**  
+- 🎯 Objetivo: consolidar carreira como **Analista de Segurança da Informação**  
+- 📚 Certificações em progresso: **AZ-500**, **SC-100**  
+- 🎓 No radar: **Security+**, **CISSP**  
+- 🛠️ Competências: infraestrutura, segurança, ambientes Azure  
+- 💻 Linguagens: **Python** e **C#**  
+- 🔧 Experiência: gestão e migração de Tenants Microsoft 365, manutenção de serviços e segurança de dados  
+
+---
+
+### 🛠️ Linguagens e Ferramentas
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,windows,powershell,linux,bash,python,cs,dotnet,docker,postgres,git,github,vscode" />
+</p>
+
+---
+
+### 📌 Projetos em Destaque
+*(em breve adicionarei repositórios com laboratórios e automações)*
+
+- 🔹 SOC Case Study com **Wazuh**  
+- 🔹 Inventário com **GLPI**  
+- 🔹 Laboratórios de rede com **pfSense / OPNsense**  
+- 🔹 Migrações para **Office 365**
+
+---
+
+### 📊 Estatísticas
 <p align="center">
   <img height="165" alt="GitHub Stats — YukioAoki" src="https://github-readme-stats.vercel.app/api?username=YukioAoki&show_icons=true&theme=github_dark&hide_border=true" />
   <img height="165" alt="Top Languages — YukioAoki" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YukioAoki&layout=compact&theme=github_dark&hide_border=true" />
@@ -35,42 +70,29 @@
   <img alt="GitHub Trophies — YukioAoki" src="https://github-profile-trophy.vercel.app/?username=YukioAoki&theme=onestar&no-frame=true&row=1&column=6" />
 </p>
 
-### Sobre mim
+---
 
-Sou Analista de Infraestrutura na <b>Texel Tecnologia</b> (desde nov/2024), prestando assistência técnica a usuários e pontos remotos. No dia a dia, realizo suporte, troubleshooting e melhoria contínua de serviços, sempre buscando a melhor solução para cada cenário.
-
-- Formação: <b>Segurança da Informação</b> — Fatec Americana (06/2023)
-- Foco: <b>Segurança Cibernética</b> e <b>Cloud (Azure)</b>
-- Objetivo: consolidar carreira como <b>Analista de Segurança da Informação</b> especializado em <b>Cloud (Azure)</b>
-- Certificações em progresso: <b>AZ-500</b>, <b>SC-100</b> | no radar: <b>Security+</b>, <b>CISSP</b>
-- Competências: infraestrutura, segurança da informação, cibersegurança e ambientes Azure
-- Linguagens: <b>Python</b> e <b>C#</b>
-- Experiências: gestão e migração de <b>Tenants Microsoft 365</b>; configuração de software e periféricos; manutenção preventiva e corretiva; garantia de integridade e segurança dos dados
-
-### Social Networks
+### 🌍 Redes Sociais
 <p align="center">
   <a href="https://www.linkedin.com/in/eduardo-yukio-aoki/" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
-      alt="LinkedIn: Eduardo Yukio Aoki">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Eduardo Yukio Aoki">
   </a>
-  <a href="https://x.com/your-x-handle" target="_blank" rel="noopener noreferrer">
 </p>
 
-### Linguagens e ferramentas
-<p>
-  <img src="https://skillicons.dev/icons?i=azure,windows,powershell,linux,bash,python,cs,dotnet,docker,postgres,git,github,vscode" />
-</p>
+---
 
-### Conquistas
-- Home SOC com <b>Wazuh</b>
-- Inventário com GLPI
-- Laboratórios de Infraestrutura com pfSense e OPNSense (Instalação, configuração)
-- Migrações para Office 365
+### 📅 Roadmap de Estudos
+- [x] Concluir Fatec (Segurança da Informação)  
+- [ ] Certificação AZ-500  
+- [ ] Certificação SC-100  
+- [ ] Security+  
+- [ ] CISSP  
 
-### Contato
+---
+
+### 📬 Contato
 - Email: <a href="mailto:eduardoyukioaoki2015@hotmail.com">eduardoyukioaoki2015@hotmail.com</a>
 
 <p align="center">
-  <sub>Made with love - Theme: dark - Last update: 2025-09-02</sub>
+  <sub>Made with ❤️ — Theme: dark — Last update: 2025-09-02</sub>
 </p>
