@@ -55,10 +55,6 @@ Sou Analista de Infraestrutura na <b>Texel Tecnologia</b> (desde nov/2024), pres
       alt="LinkedIn: Eduardo Yukio Aoki">
   </a>
   <a href="https://x.com/your-x-handle" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" 
-      alt="X (Twitter): @your-x-handle">
-  </a>
 </p>
 
 ### Linguagens e ferramentas
