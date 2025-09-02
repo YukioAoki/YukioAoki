@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/your-banner.png" width="420" alt="Banner"/>
+  <img src="https://github.com/YukioAoki/YukioAoki/blob/main/banner_github.png" width="420" alt="Banner"/>
 </p>
 
 <p align="center">
