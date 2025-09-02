@@ -63,8 +63,10 @@ Sou Analista de Infraestrutura na <b>Texel Tecnologia</b> (desde nov/2024), pres
 </p>
 
 ### Conquistas
-- Home SOC com <b>Wazuh</b> + <b>Sysmon</b> + mapeamentos <b>MITRE ATT&CK</b>  
-- Pequenos MVPs rodando em camadas gratuitas (Render/Fly/Cloudflare)  
+- Home SOC com <b>Wazuh</b>
+- Inventário com GLPI
+- Laboratórios de Infraestrutura com pfSense e OPNSense (Instalação, configuração)
+- Migrações para Office 365
 
 ### Contato
 - Email: <a href="mailto:eduardoyukioaoki2015@hotmail.com">eduardoyukioaoki2015@hotmail.com</a>
