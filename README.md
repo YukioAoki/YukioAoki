@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Role-Infrastructure%20Analyst-0A0F24?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-2D333B?style=for-the-badge"/>
   <a href="mailto:eduardoyukioaoki2015@hotmail.com"><img src="https://img.shields.io/badge/Email-Contact-2F81F7?style=for-the-badge"></a>
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=YukioAoki&style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -23,8 +23,8 @@
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YukioAoki&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YukioAoki&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
