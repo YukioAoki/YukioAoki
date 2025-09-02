@@ -3,43 +3,49 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="120" style="border-radius:50%" alt="Avatar"/><br/>
   <sub>YukioAoki</sub>
-  </p>
+</p>
 
-<h1 align="center">Hi there �Y'<</h1>
+<h1 align="center">Olá! 👋</h1>
 <p align="center">
-  I'm <b>Eduardo Yukio</b> �?" <i>Junior Infrastructure Analyst</i> and Information Security learner.
-  <br/>Blue Team | Wazuh | pfSense | VMware | PNETLab | MITRE ATT&CK | NIST CSF | CIS Controls
-  </p>
+  Sou <b>Eduardo Yukio</b> — <i>Analista de Infraestrutura</i> com foco em Segurança da Informação e Cloud (Azure).
+  <br/>Blue Team • Wazuh • pfSense • VMware • PNETLab • MITRE ATT&CK • NIST CSF • CIS Controls
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Infrastructure%20Analyst-0A0F24?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-2D333B?style=for-the-badge"/>
   <a href="mailto:eduardoyukioaoki2015@hotmail.com"><img src="https://img.shields.io/badge/Email-Contact-2F81F7?style=for-the-badge"></a>
   <img src="https://komarev.com/ghpvc/?username=YukioAoki&style=for-the-badge" />
-  </p>
+</p>
 
 <p align="center">
-  <img src="https://github.com/YukioAoki/YukioAoki/blob/main/banner_github.png" width="600" alt="Yukio — Infrastructure & Cybersecurity Labs banner"/>
-  </p>
+  <img src="https://github.com/YukioAoki/YukioAoki/blob/main/banner_github.png" width="600" alt="Yukio - Infrastructure & Cybersecurity Labs banner"/>
+</p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YukioAoki&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YukioAoki&layout=compact&theme=github_dark&hide_border=true" />
-  </p>
+  <img height="165" alt="GitHub Stats — YukioAoki" src="https://github-readme-stats.vercel.app/api?username=YukioAoki&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="165" alt="Top Languages — YukioAoki" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YukioAoki&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YukioAoki&theme=github-dark-blue&hide_border=true" />
-  </p>
+  <img height="165" alt="GitHub Streak — YukioAoki" src="https://github-readme-streak-stats.herokuapp.com/?user=YukioAoki&theme=github-dark-blue&hide_border=true" />
+</p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YukioAoki&theme=onestar&no-frame=true&row=1&column=6" />
-  </p>
+  <img alt="GitHub Trophies — YukioAoki" src="https://github-profile-trophy.vercel.app/?username=YukioAoki&theme=onestar&no-frame=true&row=1&column=6" />
+</p>
 
-### About me
-- �Y"� Building labs with **pfSense**, **VMware**, **Wazuh**, **PNETLab**  
-- �YO� Learning **Next.js**, **Prisma**, **Postgres**, **Docker**  
-- �Y'� Topics: networking, incident response, homelab  
-- �YZ� Goal: strong Blue Team engineer with automation
+### Sobre mim
+
+Sou Analista de Infraestrutura na <b>Texel Tecnologia</b> (desde nov/2024), prestando assistência técnica a usuários e pontos remotos. No dia a dia, realizo suporte, troubleshooting e melhoria contínua de serviços, sempre buscando a melhor solução para cada cenário.
+
+- Formação: <b>Segurança da Informação</b> — Fatec Americana (06/2023)
+- Foco: <b>Segurança Cibernética</b> e <b>Cloud (Azure)</b>
+- Objetivo: consolidar carreira como <b>Analista de Segurança da Informação</b> especializado em <b>Cloud (Azure)</b>
+- Certificações em progresso: <b>AZ-500</b>, <b>SC-100</b> | no radar: <b>Security+</b>, <b>CISSP</b>
+- Competências: infraestrutura, segurança da informação, cibersegurança e ambientes Azure
+- Linguagens: <b>Python</b> e <b>C#</b>
+- Experiências: gestão e migração de <b>Tenants Microsoft 365</b>; configuração de software e periféricos; manutenção preventiva e corretiva; garantia de integridade e segurança dos dados
 
 ### Social Networks
 <p align="center">
@@ -53,21 +59,20 @@
       src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" 
       alt="X (Twitter): @your-x-handle">
   </a>
-  </p>
+</p>
 
-### Programming languages & tools
+### Linguagens e ferramentas
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,go,bash,linux,docker,postgres,redis,react,nextjs,git,github,vscode" />
-  </p>
+  <img src="https://skillicons.dev/icons?i=azure,windows,powershell,linux,bash,python,cs,dotnet,docker,postgres,git,github,vscode" />
+</p>
 
-### Achievements
-- �Y>���? Home SOC with **Wazuh** + **Sysmon** + ATT&CK mappings  
-- �Ys? Small MVPs on free tiers (Render/Fly/Cloudflare)  
+### Conquistas
+- Home SOC com <b>Wazuh</b> + <b>Sysmon</b> + mapeamentos <b>MITRE ATT&CK</b>  
+- Pequenos MVPs rodando em camadas gratuitas (Render/Fly/Cloudflare)  
 
-### Contact
-- �Y"� Eduardo Yukio Aoki
+### Contato
+- Email: <a href="mailto:eduardoyukioaoki2015@hotmail.com">eduardoyukioaoki2015@hotmail.com</a>
 
 <p align="center">
-  <sub>Made with �T� �?" Theme: dark �� Last update: 2025-09-01</sub>
-  </p>
-
+  <sub>Made with love - Theme: dark - Last update: 2025-09-02</sub>
+</p>
