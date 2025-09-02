@@ -57,7 +57,7 @@
 - 🚀 Small MVPs on free tiers (Render/Fly/Cloudflare)  
 
 ### Contact
-- 📫 eduardoyukioaoki2015@hotmail.com
+- 📫 Eduardo Yukio Aoki
 
 <p align="center">
   <sub>Made with ♥ — Theme: dark · Last update: 2025-09-01</sub>
